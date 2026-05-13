@@ -1,0 +1,5 @@
+build/
+build_autotools/
+racheta_app
+*.o
+.Makefile.swp
